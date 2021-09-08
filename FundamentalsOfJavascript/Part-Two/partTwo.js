@@ -47,3 +47,45 @@
 //     console.log("YESSSS!!!");
 //   }
 // }
+
+// OPERATORS
+// comparison OPERATORS
+
+// === strict equal
+// !== strict not equal
+// > greater than
+// < less than
+// >= greater than or equal to
+// <= less than or equal to
+
+// console.log(2 > 3); // false
+// console.log(7 < 1); //false
+// console.log(2 >= 2); // true
+// console.log(1 === 1); // true
+// console.log(1 == 1); // true
+// console.log(1 === 2); // false
+
+// const name = "bineeth";
+
+// const nameTwo = "joshua";
+// console.group("strings");
+// console.log(name == "bineeth"); // true
+// console.log(name == nameTwo); // false
+// console.log(name == nameTwo.toLowerCase()); // false
+// console.groupEnd();
+
+// const firstNumber = 60;
+// const secondNumber = 50;
+
+// console.group("numbers");
+// console.log(firstNumber > secondNumber); //  trues
+// console.log(firstNumber < secondNumber); // false
+// console.log(firstNumber >= secondNumber); // true
+// console.log(firstNumber <= secondNumber); // false
+// console.log(firstNumber === secondNumber); // false
+// console.log(firstNumber !== secondNumber); // true
+// console.groupEnd();
+
+// Terenary operator
+
+// logical operator
