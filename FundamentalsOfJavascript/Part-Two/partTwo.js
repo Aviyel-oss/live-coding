@@ -126,7 +126,7 @@
 //   }
 //   console.log(i);
 // }
-
+// continue statements
 //NOTE: the continue statement is used to skip the rest of the code block and continue with the next iteration
 
 // for (let i = 0; i <= 10; i++) {
@@ -136,7 +136,7 @@
 //   }
 //   console.log(i);
 // }
-
+// break statements
 // NOTE: break => it simply breaks the loop
 
 // for (let i = 0; i <= 10; i++) {
@@ -177,21 +177,49 @@
 // console.log(ids);
 
 // while and do while loops
+// let i = 0;
+// let j = 0;
+
+// while (i < 10) {
+//   console.log(`Number : ${i}`);
+//   i++;
+// }
+
+// do while
+
+// do {
+//   console.log(`Number : ${j}`);
+//   j++;
+// } while (j < 10);
 
 // Endless loops
 
+// for (;;) {
+//   console.log("We are stuck in an infinity loop");
+// }
+
+// while (true) {
+//   console.log("I am stuck in a ninfinity loop");
+// }
+
 // for in loops
+
+// let arrayOne = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// let sum = 0;
+
+// for (let i in arryOne) {
+//   console.log(arrayOne[i]);
+// }
 
 // for of loops
 
-// break statements
+// let arrayOne = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// let sum = 0;
 
-// continue statement
+// for (let i of arrayOne) {
+//   sum += 1;
+// }
 
-// labeled statement
+// console.log(sum);
 
-// retrun statement
-
-// retrun without the value
-
-// return with the value
+// error handling
