@@ -4,7 +4,7 @@
 
 #### [September 7th - Fundamentals and basics of Javascript [part-one]](https://github.com/Aviyel-oss/live-coding/tree/main/FundamentalsOfJavascript/Part-One)
 
-#### September 8th - Fundamentals and basics of Javascript [part-two]
+#### [September 8th - Fundamentals and basics of Javascript [part-two]](https://github.com/Aviyel-oss/live-coding/tree/main/FundamentalsOfJavascript/Part-Two)
 
 #### September 9th - Getting started with Git and Github for absolute Beginners
 

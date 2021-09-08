@@ -106,7 +106,10 @@
 
 // Function decleartion
 
-// function sub(a, b) {}
+// function sub(a, b) {
+//   return;
+//   a - b;
+// }
 
 // }
 // console.log(sub);
@@ -167,8 +170,6 @@
 
 // loop an array
 
-// const marvelHeroes = ["Thor", "captainmarvel", "hulk"];
-
 // const dcHeroes = ["superman", "batman", "wonderwoman"];
 
 // marvelHeroes.forEach(function (item, index) {
@@ -189,8 +190,16 @@
 
 // add to the start
 // adds to the front of an array
+// const marvelHeroes = ["Thor", "captainmarvel", "hulk"];
 
 // let addToStartArray = marvelHeroes.unshift("IronMan");
+
+// console.log("unshift", marvelHeroes);
+
+// let addToLastStartArray = marvelHeroes.shift();
+
+// console.log("shift", marvelHeroes);
+
 // console.log("add to start", marvelHeroes);
 
 // let removeFromStartOfAnArray = marvelHeroes.shift();
