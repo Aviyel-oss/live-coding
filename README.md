@@ -2,7 +2,7 @@
 
 #### [September 6th - What is Open Source and how to contribute?](https://github.com/Aviyel-oss/live-coding/tree/main/WhatIsOpenSource)
 
-#### September 7th - Fundamentals and basics of Javascript [part-one]
+#### [September 7th - Fundamentals and basics of Javascript [part-one]](https://github.com/Aviyel-oss/live-coding/tree/main/FundamentalsOfJavascript)
 
 #### September 8th - Fundamentals and basics of Javascript [part-two]
 
