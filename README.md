@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/37651620/132569495-50b24891-45ec-4942-ad8c-1a87d814f950.gif"/>
+</p>
+
 # Aviyel Events
 
 #### [September 6th - What is Open Source and how to contribute?](https://github.com/Aviyel-oss/live-coding/tree/main/WhatIsOpenSource)
