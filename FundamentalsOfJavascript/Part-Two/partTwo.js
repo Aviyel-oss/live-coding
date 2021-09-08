@@ -277,24 +277,71 @@
 // SCOPE
 
 // THis is global scope
-var a = 10;
-var b = 20;
-const c = 123;
+// var a = 10;
+// var b = 20;
+// const c = 123;
 
 // Function Scope
-function check() {
-  var a = 11111;
-  var b = 22222;
-  var c = 33333;
-  console.log(`This is Function scope ${a} ${b} ${c}`);
-}
+// function check() {
+//   var a = 11111;
+//   var b = 22222;
+//   var c = 33333;
+//   console.log(`This is Function scope ${a} ${b} ${c}`);
+// }
 
 // IF block scope
-if (true) {
-  var x = 123456;
-  let y = 56789;
-  const z = 1234567890;
-  console.log(`This is IF block scope: ${x} ${y} ${z}`);
-}
+// if (true) {
+//   var x = 123456;
+//   let y = 56789;
+//   const z = 1234567890;
+//   console.log(`This is IF block scope: ${x} ${y} ${z}`);
+// }
 
 // ---
+
+// CLASSES
+// classes are a template for creating an objects
+
+// class syntax has two components
+// - class decleartion
+// - class expression
+
+// Constructor
+
+// Constructor method is an special method of a class for creating and initializing an object of that specific class.
+
+// constructor can use "super" keyword to call the constructor of the super/parent class
+
+// class Decleration example
+
+// class sum {
+//   constructor(numaberA, nunberB) {
+//     this.numberA = numberA;
+//     this.numberB = numberB;
+//   }
+// }
+
+// class Expression
+
+// named expression
+// let sumSum = class sumOfTwo {
+//   constructor(numaberA, nunberB) {
+//     this.numaberA = numaberA;
+//     this.nunberB = nunberB;
+//   }
+// };
+
+// console.log(sumSum.name);
+
+//unnamed expression
+
+// let sumSum = class {
+//   constructor(numaberA, nunberB) {
+//     this.numaberA = numaberA;
+//     this.nunberB = nunberB;
+//   }
+// };
+
+// console.log(sumSum.name);
+
+// binding "this"
