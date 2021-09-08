@@ -345,3 +345,23 @@
 // console.log(sumSum.name);
 
 // binding "this"
+
+//  when a static or prototype method is called without a value for this, such as by assignning the method to a variable and then calling it , then "this" value will be undefined inside the metod itself
+
+class Animal {
+  speak() {
+    console.log(this);
+  }
+  static eat() {
+    console.log(this);
+  }
+}
+
+let obj = new Animal();
+obj.speak(); //  the Animal object
+let speak = obj.speak;
+speak(); // undefined
+
+Animal.eat(); // class Animal
+let eat = Animal.eat;
+eat(); // undefined
