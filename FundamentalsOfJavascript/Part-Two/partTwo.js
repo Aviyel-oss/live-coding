@@ -266,4 +266,11 @@
 //   }
 // }
 
-// defining the exceptiob type
+// defining the exception type
+
+// function simpleException(name, message) {
+//   this.name = name;
+//   this.message = message;
+// }
+
+// throw new simpleException("exception", "this is an message");
