@@ -2,64 +2,169 @@
 <img src="https://user-images.githubusercontent.com/37651620/132570864-c8af9573-1f25-4d99-a51a-a125b9b2eeee.gif"/>
 </p>
 
-# Aviyel Events
+# Aviyel Live-Coding
 
-#### [September 6th - What is Open Source and how to contribute?](https://github.com/Aviyel-oss/live-coding/tree/main/WhatIsOpenSource)
+Aviyel works with open source creators to build and incentivise active communities, achieve financial independence and increase adoption of their projects.
 
-#### [September 7th - Fundamentals and basics of Javascript [part-one]](https://github.com/Aviyel-oss/live-coding/tree/main/FundamentalsOfJavascript/Part-One)
+> All the details of our events and curated list of resources
 
-#### [September 8th - Fundamentals and basics of Javascript [part-two]](https://github.com/Aviyel-oss/live-coding/tree/main/FundamentalsOfJavascript/Part-Two)
+## Contents
 
-#### September 9th - Getting started with Git and Github for absolute Beginners
+- [Event Website](#)
+- [Discord Community]()
+- [Programming Language]()
+- [Framework/Libraries and tools used]()
+- [Resources]()
+- [Watch list]()
+- [Reading List]()
+- [Aviyel Events]()
 
-#### September 10th - Getting started with CSS Animations
+## Event Website
 
-#### September 11th - A beginner’s guide to craft documentation
+### https://beta.aviyel.com/events
 
-#### September 12th - Guide to documentation via DocZ
+## Discord Community
 
-#### September 13th - Mobile Security Tips/Best practices and getting started with MobSF
+-
 
-#### September 14th - Build an open-source search engine with TypeSense
+## Programming Languages
 
-#### September 15th - What is Chatwoot and how to integrate it in react?
+-
 
-#### September 16th - Getting started with React with DocZ [Part-One]
+## Framework/Libraries and tools used
 
-#### September 17th - Getting started with React with DocZ [Part-Two]
+-
 
-#### September 18th - Create a Fullstack Project using TypeSense, Chatwoot, and React
+## Learning Resources
 
-#### September 19th - Create a Fullstack Project using TypeSense, Chatwoot, and React
+### Watch list
 
-#### September 20th - Create a Fullstack Project using TypeSense, Chatwoot, and React
+-
 
-#### September 21st - Getting started with Slack bot Api
+### Reading List
 
-#### September 22nd - Getting started with Slack bot Api
+-
 
-#### September 23rd - Nodejs from beginners to advance [part-one]
+### Aviyel Events
 
-#### September 24th - Nodejs from beginners to advance [ part-two]
+- [September 6th - What is Open Source and how to contribute?](https://beta.aviyel.com/events/326/what_is_open_source_and_how_to_contribute?)
 
-#### September 25th - Getting started with PHP
+- [September 7th - Fundamentals and basics of Javascript [part-one]](https://beta.aviyel.com/events/361/fundamentals_and_basics_of_javascript)
 
-#### September 26th - Getting started with Fundamentals and basics of Ruby on Rails with DocZ
+- [September 8th - Fundamentals and basics of Javascript [part-two]](https://beta.aviyel.com/events/384/fundamentals_and_basics_of_javascript_[part-two])
 
-#### September 26 - Getting started with Ruby on Rails with DocZ
+- September 9th - Getting started with Git and Github for absolute Beginners
 
-#### September 27th - Integrating Headless CMS Shopify with React.
+- September 10th - Getting started with CSS Animations
 
-#### September 28th - Integrating Headless WordPress with React.
+- September 11th - A beginner’s guide to craft documentation
 
-#### September 29th - Getting started with the basics of MongoDB.
+- September 12th - Guide to documentation via DocZ
 
-#### September 30th - Advanced Concepts of MongoDB
+- September 13th - Mobile Security Tips/Best practices and getting started with MobSF
 
-#### October 1st - Learn Tailwind CSS - A beginner’s guide.
+- September 14th - Build an open-source search engine with TypeSense
 
-#### October 2nd - Beginner’s guide to Bootstrap.
+- September 15th - What is Chatwoot and how to integrate it in react?
 
-#### October 3rd - How to implement Material-UI in React.
+- September 16th - Getting started with React with DocZ [Part-One]
 
-#### October 4th - Creating Beautiful UI using Ant Design and React.
+- September 17th - Getting started with React with DocZ [Part-Two]
+
+- September 18th - Create a Fullstack Project using TypeSense, Chatwoot, and React
+
+- September 19th - Create a Fullstack Project using TypeSense, Chatwoot, and React
+
+- September 20th - Create a Fullstack Project using TypeSense, Chatwoot, and React
+
+- September 21st - Getting started with Slack bot Api
+
+- September 22nd - Getting started with Slack bot Api
+
+- September 23rd - Nodejs from beginners to advance [part-one]
+
+- September 24th - Nodejs from beginners to advance [ part-two]
+
+- September 25th - Getting started with PHP
+
+- September 26th - Getting started with Fundamentals and basics of Ruby on Rails with DocZ
+
+- September 26 - Getting started with Ruby on Rails with DocZ
+
+- September 27th - Integrating Headless CMS Shopify with React.
+
+- September 28th - Integrating Headless WordPress with React.
+
+- September 29th - Getting started with the basics of MongoDB.
+
+- September 30th - Advanced Concepts of MongoDB
+
+- October 1st - Learn Tailwind CSS - A beginner’s guide.
+
+- October 2nd - Beginner’s guide to Bootstrap.
+
+- October 3rd - How to implement Material-UI in React.
+
+- October 4th - Creating Beautiful UI using Ant Design and React.
+
+### Events Resources
+
+- [What is Open Source and how to contribute?](https://github.com/Aviyel-oss/live-coding/tree/main/WhatIsOpenSource)
+
+- [Fundamentals and basics of Javascript [part-one]](https://github.com/Aviyel-oss/live-coding/tree/main/FundamentalsOfJavascript/Part-One)
+
+- [Fundamentals and basics of Javascript [part-two]](https://github.com/Aviyel-oss/live-coding/tree/main/FundamentalsOfJavascript/Part-Two)
+
+- Getting started with Git and Github for absolute Beginners
+
+- Getting started with CSS Animations
+
+- A beginner’s guide to craft documentation
+
+- Guide to documentation via DocZ
+
+- Mobile Security Tips/Best practices and getting started with MobSF
+
+- Build an open-source search engine with TypeSense
+
+- What is Chatwoot and how to integrate it in react?
+
+- Getting started with React with DocZ [Part-One]
+
+- Getting started with React with DocZ [Part-Two]
+
+- Create a Fullstack Project using TypeSense, Chatwoot, and React
+
+- Create a Fullstack Project using TypeSense, Chatwoot, and React
+
+- Create a Fullstack Project using TypeSense, Chatwoot, and React
+
+- Getting started with Slack bot Api
+
+- Getting started with Slack bot Api
+
+- Nodejs from beginners to advance [part-one]
+
+- Nodejs from beginners to advance [ part-two]
+
+- Getting started with PHP
+
+- Getting started with Fundamentals and basics of Ruby on Rails with DocZ
+
+- Getting started with Ruby on Rails with DocZ
+
+- Integrating Headless CMS Shopify with React.
+
+- Integrating Headless WordPress with React.
+
+- Getting started with the basics of MongoDB.
+
+- Advanced Concepts of MongoDB
+
+- Learn Tailwind CSS - A beginner’s guide.
+
+- Beginner’s guide to Bootstrap.
+
+- How to implement Material-UI in React.
+
+- Creating Beautiful UI using Ant Design and React.
