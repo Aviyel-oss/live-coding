@@ -223,3 +223,28 @@
 // console.log(sum);
 
 // error handling
+
+// catching all exception
+
+// function catchWhenNullEmpty(array) {
+//   if (array.length == null) {
+//     throw "array is null";
+//   }
+
+//   if (array.length === 0) {
+//     throw new RangeError();
+//   }
+
+//   return array;
+// }
+
+// try {
+//   catchWhenNullEmpty(["null"]);
+//   console.log(catchWhenNullEmpty["null"]);
+// } catch (err) {
+//   console.log(err);
+// }
+
+// ctaching the specific exception
+
+// defining the exceptiob type
