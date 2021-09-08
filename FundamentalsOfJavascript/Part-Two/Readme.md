@@ -157,10 +157,6 @@ switch (foobar) {
 
 - compares two value and return either true or false
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1623271188731/MYxD3h_7s.png)
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1623271307686/Wuoa-fZMx.png)
-
 ```
 // comparisons operator in javascript
 
@@ -253,8 +249,6 @@ console.log(age === 230 ? "Correct" : "Incorrect");
 
 ## Logical OR (||) operator
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1623267712267/14D_UNV7z.png)
-
 ```
 false || false      //  false
 false || true       // true
@@ -264,8 +258,6 @@ true || true       // true
 ```
 
 ## Logical AND (&&) operator
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1623267862879/qklmNt3jB.png)
 
 ```
 false && false      //  false
