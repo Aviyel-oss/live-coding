@@ -110,3 +110,88 @@
 // console.log(false && true); // false
 // console.log(true && false); // false
 // console.log(true && true); // true
+
+// LOOPS
+
+// for loops
+
+// for (let i = 0; i <= 10; i++) {
+//   console.log(i);
+// }
+// changing an iteration
+
+// for (let i = 0; i <= 10; i++) {
+//   if (i === 2) {
+//     console.log("two");
+//   }
+//   console.log(i);
+// }
+
+//NOTE: the continue statement is used to skip the rest of the code block and continue with the next iteration
+
+// for (let i = 0; i <= 10; i++) {
+//   if (i === 2) {
+//     console.log("two");
+//     continue;
+//   }
+//   console.log(i);
+// }
+
+// NOTE: break => it simply breaks the loop
+
+// for (let i = 0; i <= 10; i++) {
+//   if (i === 2) {
+//     console.log("two");
+//     break;
+//   }
+//   console.log(i);
+// }
+
+// loop through the array using old method
+
+// const name = ["bineeth", "joshua", "pramit", "sobin"];
+
+// for (let i = 0; i < name.length; i++) {
+//   console.log(name[i]);
+// }
+
+// const nameTwo = ["bineeth", "joshua", "pramit", "sobin"];
+
+// nameTwo.forEach((nam, index) => {
+//   console.log(`${nam}, ${index}`);
+// });
+
+// map method
+
+// const users = [
+//   { id: 1, name: "bineeth" },
+//   { id: 2, name: "joshua" },
+//   { id: 3, name: "pramit" },
+//   { id: 4, name: "jsew2" },
+// ];
+
+// const ids = users.map((user) => {
+//   return user.id;
+// });
+
+// console.log(ids);
+
+// while and do while loops
+
+// Endless loops
+
+// for in loops
+
+// for of loops
+
+// break statements
+
+// continue statement
+
+// labeled statement
+
+// retrun statement
+
+// retrun without the value
+
+// return with the value
