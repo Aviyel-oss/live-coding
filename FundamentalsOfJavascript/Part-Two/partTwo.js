@@ -247,4 +247,23 @@
 
 // ctaching the specific exception
 
+// function throwNewNullOrEmpty(array) {
+//   if (array == null) {
+//     throw "array is null";
+//   }
+//   if (array.length == 0) {
+//     throw new RangeError();
+//   }
+// }
+
+// try {
+//   throwNewNullOrEmpty([]);
+// } catch (error) {
+//   if (error.name == "RangeError") {
+//     console.log("array is empty");
+//   } else {
+//     console.log("Array is not specified");
+//   }
+// }
+
 // defining the exceptiob type
