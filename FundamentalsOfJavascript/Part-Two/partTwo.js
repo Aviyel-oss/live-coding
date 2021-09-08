@@ -348,20 +348,67 @@
 
 //  when a static or prototype method is called without a value for this, such as by assignning the method to a variable and then calling it , then "this" value will be undefined inside the metod itself
 
-class Animal {
-  speak() {
-    console.log(this);
+// class Animal {
+//   speak() {
+//     console.log(this);
+//   }
+//   static eat() {
+//     console.log(this);
+//   }
+// }
+
+// let obj = new Animal();
+// obj.speak(); //  the Animal object
+// let speak = obj.speak;
+// speak(); // undefined
+
+// Animal.eat(); // class Animal
+// let eat = Animal.eat;
+// eat(); // undefined
+
+// public field decleration
+
+// class sumSum {
+//   numberONe = 0;
+//   numberTwo;
+//   constructor(numberOne, numberTwo) {
+//     this.numberOne = numberOne;
+//     this.numberTwo = numberTwo;
+//   }
+// }
+
+// private field decleration
+
+// class sumSum {
+//   #numberONe = 0;
+//   #numberTwo;
+//   constructor(numberOne, numberTwo) {
+//     this.#numberOne = numberOne;
+//     this.#numberTwo = numberTwo;
+//   }
+// }
+
+// extends in javascript
+// extends is used to create a class of another class
+
+class Intrument {
+  constructor(name) {
+    this.name = name;
   }
-  static eat() {
-    console.log(this);
+  play() {
+    console.log(`${this.name} creates an awesome sound`);
   }
 }
 
-let obj = new Animal();
-obj.speak(); //  the Animal object
-let speak = obj.speak;
-speak(); // undefined
+class Piano extends Intrument {
+  constructor(name) {
+    super(name);
+  }
 
-Animal.eat(); // class Animal
-let eat = Animal.eat;
-eat(); // undefined
+  play() {
+    console.log(`${this.name} creates an sentimental sound`);
+  }
+}
+
+let pianoo = new Piano("Yamaha");
+pianoo.play();
