@@ -88,4 +88,25 @@
 
 // Terenary operator
 
+// "condition ? expression_IF_IT_is_TRUE : expression_IF_IT_is_FALSE"
+
+// const age = 100;
+
+// console.log(age === 100 ? "Correct" : "Incorrect");
+
 // logical operator
+
+// logical OR ( || ) operator
+//              A         B       A || B
+// console.log(false || false); // false
+// console.log(false || true); // true
+// console.log(true || false); // true
+// console.log(true || true); // true
+
+// logical AND operator (&&) operator
+
+//              A         B       A && B
+// console.log(false && false); // false
+// console.log(false && true); // false
+// console.log(true && false); // false
+// console.log(true && true); // true
