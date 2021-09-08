@@ -274,3 +274,27 @@
 // }
 
 // throw new simpleException("exception", "this is an message");
+// SCOPE
+
+// THis is global scope
+var a = 10;
+var b = 20;
+const c = 123;
+
+// Function Scope
+function check() {
+  var a = 11111;
+  var b = 22222;
+  var c = 33333;
+  console.log(`This is Function scope ${a} ${b} ${c}`);
+}
+
+// IF block scope
+if (true) {
+  var x = 123456;
+  let y = 56789;
+  const z = 1234567890;
+  console.log(`This is IF block scope: ${x} ${y} ${z}`);
+}
+
+// ---
