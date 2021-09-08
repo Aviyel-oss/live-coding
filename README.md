@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/37651620/132569495-50b24891-45ec-4942-ad8c-1a87d814f950.gif"/>
+<img src="https://user-images.githubusercontent.com/37651620/132570864-c8af9573-1f25-4d99-a51a-a125b9b2eeee.gif"/>
 </p>
 
 # Aviyel Events
