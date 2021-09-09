@@ -12,13 +12,14 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 - [Event Website](#event-website)
 - [Discord Community](#discord-community--aviyels-world-)
-- [Programming Language](#programming-language)
+- [Programming Language](#programming-languages)
 - [Framework/Libraries and tools used](#frameworklibraries-and-tools-used)
 - [Resources](#resources)
 - [Learning resources](#learning-resources)
 - [Video Resources](#video-resources)
 - [Reading Resources](#reading-resources)
 - [Aviyel Events](#aviyel-events)
+- [Events Resources](#events-resources)
 
 ## Event Website ([https://beta.aviyel.com/events](https://beta.aviyel.com/events))
 
@@ -130,7 +131,7 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 - October 4th - Creating Beautiful UI using Ant Design and React.
 
-### Events Resources
+## Events Resources
 
 - [What is Open Source and how to contribute?](https://github.com/Aviyel-oss/live-coding/tree/main/WhatIsOpenSource)
 
