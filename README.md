@@ -10,14 +10,15 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 ## Table of Contents
 
-- [Event Website](#)
-- [Discord Community]()
-- [Programming Language]()
-- [Framework/Libraries and tools used]()
-- [Resources]()
-- [Watch list]()
-- [Reading List]()
-- [Aviyel Events]()
+- [Event Website](#event-website)
+- [Discord Community](#discord-community)
+- [Programming Language](#programming-language)
+- [Framework/Libraries and tools used](#frameworklibraries-and-tools-used)
+- [Resources](#resources)
+- [Learning resources](#learning-resources)
+- [Video Resources](#video-resources)
+- [Reading Resources](#reading-resources)
+- [Aviyel Events](#aviyel-events)
 
 ## Event Website
 
@@ -25,44 +26,43 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 ## Discord Community
 
--
+- [Aviyel's World](https://discord.gg/gg3YSBxBTs)
 
-## Programming Languages.
+## Programming Languages
 
-- NodeJs
-- Javascript
-- PHP
-- Ruby on Rails
-- C++
+- [NodeJs](https://nodejs.org/en/)
+- [Javascript](https://www.javascript.com/)
+- [PHP](https://www.php.net/)
+- [Ruby on Rails](https://rubyonrails.org/)
+- [C++](https://www.w3schools.com/CPP/default.asp)
 
 ## Framework/Libraries and tools used
 
-- Git
-- Github
-- React
-- Chatwoot
-- CSS
-- Docz
-- TypeSense
-- Slack Bot API
-- Hoppscotch
-- MongoDB
-- TailwindCSS
-- Bootstrap
-- Material-UI
-- Ant Design
+- [Git](https://git-scm.com/)
+- [Github](https://github.com/)
+- [React](https://reactjs.org/)
+- [Chatwoot](https://github.com/chatwoot/chatwoot)
+- [Docz](https://github.com/doczjs/docz)
+- [TypeSense](https://typesense.org/)
+- [Slack Bot API](https://github.com/mishk0/slack-bot-api)
+- [Hoppscotch](https://hoppscotch.io/)
+- [MongoDB](https://www.mongodb.com/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Material-UI](https://material-ui.com/)
+- [Ant Design](https://ant.design/)
 
 ## Learning Resources
 
-### Watch list
+### Video Resources
 
 -
 
-### Reading List
+### Reading Resources
 
 -
 
-### Aviyel Events
+## Aviyel Events
 
 - [September 6th - What is Open Source and how to contribute?](https://beta.aviyel.com/events/326/what_is_open_source_and_how_to_contribute?)
 
