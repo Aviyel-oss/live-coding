@@ -24,9 +24,11 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 ### https://beta.aviyel.com/events
 
-## Discord Community
+## Discord Community ( [Aviyel's World](https://discord.gg/gg3YSBxBTs) )
 
-- [Aviyel's World](https://discord.gg/gg3YSBxBTs)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/37651620/132624919-4255b6af-eaa3-45c3-bddb-85ca56f78748.jpg" width ="700"/>
+</p>
 
 ## Programming Languages
 
