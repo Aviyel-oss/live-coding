@@ -8,7 +8,7 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 > All the details of our events and curated list of resources
 
-## Contents
+## Table of Contents
 
 - [Event Website](#)
 - [Discord Community]()
@@ -27,13 +27,30 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 -
 
-## Programming Languages
+## Programming Languages.
 
--
+- NodeJs
+- Javascript
+- PHP
+- Ruby on Rails
+- C++
 
 ## Framework/Libraries and tools used
 
--
+- Git
+- Github
+- React
+- Chatwoot
+- CSS
+- Docz
+- TypeSense
+- Slack Bot API
+- Hoppscotch
+- MongoDB
+- TailwindCSS
+- Bootstrap
+- Material-UI
+- Ant Design
 
 ## Learning Resources
 
