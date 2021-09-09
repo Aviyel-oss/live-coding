@@ -2,13 +2,13 @@
 <img src="https://user-images.githubusercontent.com/37651620/132570864-c8af9573-1f25-4d99-a51a-a125b9b2eeee.gif"/>
 </p>
 
-# Aviyel Live-Coding
+# 🤖 Aviyel Live-Coding
 
 Aviyel works with open source creators to build and incentivise active communities, achieve financial independence and increase adoption of their projects.
 
 > All the details of our events and curated list of resources
 
-## Table of Contents
+## 📋 Table of Contents
 
 - [Event Website](#event-website-httpsbetaaviyelcomevents)
 - [Discord Community](#discord-community--aviyels-world-)
@@ -20,19 +20,19 @@ Aviyel works with open source creators to build and incentivise active communiti
 - [Aviyel Events](#aviyel-events)
 - [Events Resources](#events-resources)
 
-## Event Website ([https://beta.aviyel.com/events](https://beta.aviyel.com/events))
+## 🎫 Event Website ([https://beta.aviyel.com/events](https://beta.aviyel.com/events)) 🎙️
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/37651620/132625766-03de6a09-4cf0-41a6-af3d-25a8e106bb29.jpg" width ="700"/>
 </p>
 
-## Discord Community ( [Aviyel's World](https://discord.gg/gg3YSBxBTs) )
+## 🏠 Discord Community ( [Aviyel's World](https://discord.gg/gg3YSBxBTs) )
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/37651620/132624919-4255b6af-eaa3-45c3-bddb-85ca56f78748.jpg" width ="700"/>
 </p>
 
-## Programming Languages
+## 💻 Programming Languages
 
 - [NodeJs](https://nodejs.org/en/)
 - [Javascript](https://www.javascript.com/)
@@ -40,7 +40,7 @@ Aviyel works with open source creators to build and incentivise active communiti
 - [Ruby on Rails](https://rubyonrails.org/)
 - [C++](https://www.w3schools.com/CPP/default.asp)
 
-## Framework/Libraries and tools used
+## 🧰 Framework/Libraries and tools used
 
 - [Git](https://git-scm.com/)
 - [Github](https://github.com/)
@@ -56,9 +56,9 @@ Aviyel works with open source creators to build and incentivise active communiti
 - [Material-UI](https://material-ui.com/)
 - [Ant Design](https://ant.design/)
 
-## Learning Resources
+## 👨‍💻 Learning Resources 👩‍💻
 
-### Video Resources
+### 📹 Video Resources
 
 - [Maintainer Spotlight - Liyas Thomas of Hoppscotch](https://www.youtube.com/watch?v=A5p2CcpyT24&ab_channel=Aviyel)
 
@@ -86,7 +86,7 @@ Aviyel works with open source creators to build and incentivise active communiti
 - [RESTFUL APIs for Absolute Beginners Make your first HTTP Request w Hoppscotch](https://www.youtube.com/watch?v=JCkMvLa-Rlc)
 - [Docz maintainer interacts with aviyel content creators](https://www.youtube.com/watch?v=HdwYJEVeVbA&ab_channel=Aviyel)
 
-### Reading Resources
+### 📰 Reading Resources
 
 - [A Brief Introduction and Guide to Mobile Security Framework (MobSF)](https://aviyel.com/post/643/a-brief-introduction-and-guide-to-mobile-security-framework-mobsf)
 
@@ -103,7 +103,7 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 - [Bootstrapping a Business Around Open Source](https://aviyel.com/post/25/bootstrapping-a-business-around-open-source)
 
-## Aviyel Events
+## 🎟️ Aviyel Events
 
 - [September 6th - What is Open Source and how to contribute?](https://beta.aviyel.com/events/326/what_is_open_source_and_how_to_contribute?)
 
@@ -165,7 +165,7 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 - October 4th - Creating Beautiful UI using Ant Design and React.
 
-## Events Resources
+## 💼 Events Resources Archives
 
 - [What is Open Source and how to contribute?](https://github.com/Aviyel-oss/live-coding/tree/main/WhatIsOpenSource)
 
