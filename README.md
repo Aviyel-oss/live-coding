@@ -92,6 +92,17 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 - [How to Begin with Chatwoot- an Open Source Platform for Customer Engagement](https://aviyel.com/post/751/how-to-begin-with-chatwoot-an-open-source-platform-for-customer-engagement)
 
+- [14 days of Mobile Security](https://aviyel.com/post/333/14-days-of-mobile-security)
+- [Mobile Security Tips and Best Practices 📱](https://aviyel.com/post/583/mobile-security-tips-and-best-practices)
+- [Why Chatwoot is Unique](https://aviyel.com/post/232/why-chatwoot-is-unique)
+- [How to test your API with Hoppscotch✔️](https://aviyel.com/post/206/how-to-test-your-api-with-hoppscotch)
+- [Learn API basics with Hoppscotch 🚀](https://aviyel.com/post/162/learn-api-basics-with-hoppscotch)
+- [The Open Source Contributor Funnel: Turning Users Into Maintainers - CodeConf 2016](https://aviyel.com/post/9/the-open-source-contributor-funnel-turning-users-into-maintainers-codeconf-2016)
+- [Beginners Guide To Starting Your Open-Source Journey 🗺️](https://aviyel.com/post/180/beginners-guide-to-starting-your-open-source-journey)
+- [10+ Live chat tools like Intercom, Drift, Zendesk, Tawk.io and LiveChat compared with Chatwoot. 💬](https://aviyel.com/post/379/10-live-chat-tools-like-intercom-drift-zendesk-tawk-io-and-livechat-compared-with-chatwoot)
+
+- [Bootstrapping a Business Around Open Source](https://aviyel.com/post/25/bootstrapping-a-business-around-open-source)
+
 ## Aviyel Events
 
 - [September 6th - What is Open Source and how to contribute?](https://beta.aviyel.com/events/326/what_is_open_source_and_how_to_contribute?)
