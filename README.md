@@ -10,7 +10,7 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 ## Table of Contents
 
-- [Event Website](#event-website)
+- [Event Website](#event-website-httpsbetaaviyelcomevents)
 - [Discord Community](#discord-community--aviyels-world-)
 - [Programming Language](#programming-languages)
 - [Framework/Libraries and tools used](#frameworklibraries-and-tools-used)
