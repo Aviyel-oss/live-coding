@@ -111,7 +111,7 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 - [September 8th - Fundamentals and basics of Javascript [part-two]](https://beta.aviyel.com/events/384/fundamentals_and_basics_of_javascript_[part-two])
 
-- September 9th - Getting started with Git and Github for absolute Beginners
+- [September 9th - Getting started with Git and Github for absolute Beginners](https://beta.aviyel.com/events/389/getting_started_with_git_&_github_for_absolute_beginners)
 
 - September 10th - Getting started with CSS Animations
 
