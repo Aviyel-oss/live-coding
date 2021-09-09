@@ -11,7 +11,7 @@ Aviyel works with open source creators to build and incentivise active communiti
 ## Table of Contents
 
 - [Event Website](#event-website)
-- [Discord Community](#discord-community)
+- [Discord Community](#discord-community--aviyels-world-)
 - [Programming Language](#programming-language)
 - [Framework/Libraries and tools used](#frameworklibraries-and-tools-used)
 - [Resources](#resources)
@@ -20,9 +20,13 @@ Aviyel works with open source creators to build and incentivise active communiti
 - [Reading Resources](#reading-resources)
 - [Aviyel Events](#aviyel-events)
 
-## Event Website
+## Event Website ([https://beta.aviyel.com/events](https://beta.aviyel.com/events))
 
-### https://beta.aviyel.com/events
+<p align="center">
+<img src="https://user-images.githubusercontent.com/37651620/132625766-03de6a09-4cf0-41a6-af3d-25a8e106bb29.jpg" width ="700"/>
+</p>
+
+###
 
 ## Discord Community ( [Aviyel's World](https://discord.gg/gg3YSBxBTs) )
 
