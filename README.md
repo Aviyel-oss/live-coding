@@ -26,8 +26,6 @@ Aviyel works with open source creators to build and incentivise active communiti
 <img src="https://user-images.githubusercontent.com/37651620/132625766-03de6a09-4cf0-41a6-af3d-25a8e106bb29.jpg" width ="700"/>
 </p>
 
-###
-
 ## Discord Community ( [Aviyel's World](https://discord.gg/gg3YSBxBTs) )
 
 <p align="center">
@@ -62,11 +60,37 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 ### Video Resources
 
--
+- [Maintainer Spotlight - Liyas Thomas of Hoppscotch](https://www.youtube.com/watch?v=A5p2CcpyT24&ab_channel=Aviyel)
+
+- [Maintainer Spotlight - Pranav Raj of Chatwoot](https://www.youtube.com/watch?v=Vu8P3CohqiE&ab_channel=Aviyel)
+- [AMA Part I - Liyas Thomas the Maintainer of Hoppscotch](https://www.youtube.com/watch?v=qjfHD-LVQCM&ab_channel=Aviyel)
+- [AMA Part I with Chatwoot maintainers Pranav Raj & Sojan Jose](https://www.youtube.com/watch?v=ociLeH_7Jus&ab_channel=Aviyel)
+- [AMA Part II - Andrew Bastin the Maintainer of Hoppscotch](https://www.youtube.com/watch?v=WTp8KiRAbYk&ab_channel=Aviyel)
+- [Tips to transform your SaaS product to a successful open source project by Chatwoot's maintainer](https://www.youtube.com/watch?v=n6EJO1DK__8&ab_channel=Aviyel)
+- [Pranav Raj the maintainer of Chatwoot, discussing upcoming feature.](https://www.youtube.com/watch?v=tIfief4EBCQ&ab_channel=Aviyel)
+- [Know how Chatwoot is making customer support better for everyone with their updates](https://www.youtube.com/watch?v=LE_rL5ynRA8&ab_channel=Aviyel)
+- [Customer Data and Privacy by Chatwoot Maintainer Sojan Jose](https://www.youtube.com/watch?v=Gju_jh9eksk&ab_channel=Aviyel)
+- [Maintainer Spotlight - Ajin Abraham of MobSF](https://www.youtube.com/watch?v=5bOkjho-IEs&ab_channel=Aviyel)
+- [Ajin Abraham on how Open Source Community has evolved over time to become more sustainable.](https://www.youtube.com/watch?v=Kwljfe3oygQ&ab_channel=Aviyel)
+- [4 Ways how MobSF is changing the future of Mobile Security by maintainer Ajin Abraham](https://www.youtube.com/watch?v=OfedEtN_Ghk&ab_channel=Aviyel)
+- [4 Mistakes to avoid to develop secure mobile applications by MobSF Maintainer Ajin Abraham](https://www.youtube.com/watch?v=HdKUCmN5zlE&ab_channel=Aviyel)
+- [How to Increase Contributors for your Open Source Project by MobSF Maintainer Ajin Abraham](https://www.youtube.com/watch?v=hntHzUN2gOM&ab_channel=Aviyel)
+- [Maintainer Spotlight - Pedro Nauck of Docz](https://www.youtube.com/watch?v=B7IPwnGd7nQ&t=8s&ab_channel=Aviyel)
+- [Tips to start your Open Source Journey by DocZ Maintainer Pedro Nauck](https://www.youtube.com/watch?v=QAnvAyI3chY&ab_channel=Aviyel)
+- [Typsense maintainer Kishore Nallan on Why we need new and better search engines for applications](https://www.youtube.com/watch?v=i--wDK9ORyg&ab_channel=Aviyel)
+- [5 Tips for newbies starting with open source by typesense maintainer Kishore Nallan](https://www.youtube.com/watch?v=keBWBuGlnuA&ab_channel=Aviyel)
+- [Know what made typesense maintainers Kishore and jason build their own search engine from scratch](https://www.youtube.com/watch?v=iKjmkvbWCVI&ab_channel=Aviyel)
+- [How Typesense maintainers were able to leave their jobs to work full time on Open Source](https://www.youtube.com/watch?v=ER8FDiCMPCY&ab_channel=Aviyel)
+- [Most important aspect of Typesense’s user experience by maintainer Jason Bosco](https://www.youtube.com/watch?v=PKm_BNQjngE&ab_channel=Aviyel)
+- [Exclusive AMA with Typesense maintainer Jason bosco and Kishore Nallan](https://www.youtube.com/watch?v=1CNpJPJ0uAA)
+- [RESTFUL APIs for Absolute Beginners Make your first HTTP Request w Hoppscotch](https://www.youtube.com/watch?v=JCkMvLa-Rlc)
+- [Docz maintainer interacts with aviyel content creators](https://www.youtube.com/watch?v=HdwYJEVeVbA&ab_channel=Aviyel)
 
 ### Reading Resources
 
--
+- [A Brief Introduction and Guide to Mobile Security Framework (MobSF)](https://aviyel.com/post/643/a-brief-introduction-and-guide-to-mobile-security-framework-mobsf)
+
+- [How to Begin with Chatwoot- an Open Source Platform for Customer Engagement](https://aviyel.com/post/751/how-to-begin-with-chatwoot-an-open-source-platform-for-customer-engagement)
 
 ## Aviyel Events
 
