@@ -14,10 +14,9 @@ Aviyel works with open source creators to build and incentivise active communiti
 - [Discord Community](#discord-community--aviyels-world-)
 - [Programming Language](#programming-languages)
 - [Framework/Libraries and tools used](#frameworklibraries-and-tools-used)
-- [Resources](#resources)
 - [Learning resources](#learning-resources)
-- [Video Resources](#video-resources)
-- [Reading Resources](#reading-resources)
+  - [Video Resources](#video-resources)
+  - [Reading Resources](#reading-resources)
 - [Aviyel Events](#aviyel-events)
 - [Events Resources](#events-resources)
 
