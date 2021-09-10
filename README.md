@@ -105,15 +105,15 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 ## 🎟️ Aviyel Events
 
-- [September 6th - What is Open Source and how to contribute?](https://beta.aviyel.com/events/326/what_is_open_source_and_how_to_contribute?)
+- ~~[September 6th - What is Open Source and how to contribute?](https://beta.aviyel.com/events/326/what_is_open_source_and_how_to_contribute?)~~
 
-- [September 7th - Fundamentals and basics of Javascript [part-one]](https://beta.aviyel.com/events/361/fundamentals_and_basics_of_javascript)
+- ~~[September 7th - Fundamentals and basics of Javascript [part-one]](https://beta.aviyel.com/events/361/fundamentals_and_basics_of_javascript)~~
 
-- [September 8th - Fundamentals and basics of Javascript [part-two]](https://beta.aviyel.com/events/384/fundamentals_and_basics_of_javascript_[part-two])
+- ~~[September 8th - Fundamentals and basics of Javascript [part-two]](https://beta.aviyel.com/events/384/fundamentals_and_basics_of_javascript_[part-two])~~
 
-- [September 9th - Getting started with Git and Github for absolute Beginners](https://beta.aviyel.com/events/389/getting_started_with_git_&_github_for_absolute_beginners)
+- ~~[September 9th - Getting started with Git and Github for absolute Beginners](https://beta.aviyel.com/events/389/getting_started_with_git_&_github_for_absolute_beginners)~~
 
-- [September 10th - A beginner’s guide for crafting readme](https://beta.aviyel.com/events/412/a_beginner's_guide_for_crafting_readme_-open-source_series)
+- ~~[September 10th - A beginner’s guide for crafting readme](https://beta.aviyel.com/events/412/a_beginner's_guide_for_crafting_readme_-open-source_series)~~
 
 - September 11th - Getting started with CSS Animations
 
