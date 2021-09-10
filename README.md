@@ -113,9 +113,9 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 - [September 9th - Getting started with Git and Github for absolute Beginners](https://beta.aviyel.com/events/389/getting_started_with_git_&_github_for_absolute_beginners)
 
-- September 10th - Getting started with CSS Animations
+- [September 10th - A beginner’s guide for crafting readme](https://beta.aviyel.com/events/412/a_beginner's_guide_for_crafting_readme_-open-source_series)
 
-- September 11th - A beginner’s guide to craft documentation
+- September 11th - Getting started with CSS Animations
 
 - September 12th - Guide to documentation via DocZ
 
