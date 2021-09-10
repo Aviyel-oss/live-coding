@@ -175,7 +175,7 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 - [Getting started with Git and Github for absolute Beginners](https://github.com/Aviyel-oss/live-coding/tree/main/GitAndGithub)
 
-- [A beginner’s guide for crafting readme]()
+- [A beginner’s guide for crafting readme](https://github.com/Aviyel-oss/live-coding/tree/main/ReadmeDocumentation)
 
 - Getting started with CSS Animations
 
