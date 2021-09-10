@@ -173,11 +173,11 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 - [Fundamentals and basics of Javascript [part-two]](https://github.com/Aviyel-oss/live-coding/tree/main/FundamentalsOfJavascript/Part-Two)
 
-- Getting started with Git and Github for absolute Beginners
+- [Getting started with Git and Github for absolute Beginners](https://github.com/Aviyel-oss/live-coding/tree/main/GitAndGithub)
+
+- [A beginner’s guide for crafting readme]()
 
 - Getting started with CSS Animations
-
-- A beginner’s guide to craft documentation
 
 - Guide to documentation via DocZ
 
