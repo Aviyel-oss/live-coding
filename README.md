@@ -227,8 +227,6 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 - Creating Beautiful UI using Ant Design and React.
 
----
-
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
