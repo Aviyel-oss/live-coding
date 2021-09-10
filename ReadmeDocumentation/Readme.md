@@ -5,7 +5,6 @@
 [Headers](#headers)  
 [Code Emphasis](#emphasis)  
 [Lists](#lists)  
-[Links](#links)  
 [Images](#images)  
 [Code and Syntax Highlighting](#code)  
 [Tables](#tables)  
