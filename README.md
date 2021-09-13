@@ -115,55 +115,55 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 - ~~[September 10th - A beginner’s guide for crafting readme](https://beta.aviyel.com/events/412/a_beginner's_guide_for_crafting_readme_-open-source_series)~~
 
-- September 11th - Getting started with CSS Animations
+- September 13th - Getting started with CSS Animations
 
-- September 12th - Guide to documentation via DocZ
+- September 14th - Guide to documentation via DocZ
 
-- September 13th - Mobile Security Tips/Best practices and getting started with MobSF
+- September 15th - Mobile Security Tips/Best practices and getting started with MobSF
 
-- September 14th - Build an open-source search engine with TypeSense
+- September 16th - Build an open-source search engine with TypeSense
 
-- September 15th - What is Chatwoot and how to integrate it in react?
+- September 17th - What is Chatwoot and how to integrate it in react?
 
-- September 16th - Getting started with React with DocZ [Part-One]
+- September 18th - Getting started with React with DocZ [Part-One]
 
-- September 17th - Getting started with React with DocZ [Part-Two]
-
-- September 18th - Create a Fullstack Project using TypeSense, Chatwoot, and React
-
-- September 19th - Create a Fullstack Project using TypeSense, Chatwoot, and React
+- September 19th - Getting started with React with DocZ [Part-Two]
 
 - September 20th - Create a Fullstack Project using TypeSense, Chatwoot, and React
 
-- September 21st - Getting started with Slack bot Api
+- September 21st - Create a Fullstack Project using TypeSense, Chatwoot, and React
 
-- September 22nd - Getting started with Slack bot Api
+- September 22nd - Create a Fullstack Project using TypeSense, Chatwoot, and React
 
-- September 23rd - Nodejs from beginners to advance [part-one]
+- September 23rd - Getting started with Slack bot Api
 
-- September 24th - Nodejs from beginners to advance [ part-two]
+- September 24th - Getting started with Slack bot Api
 
-- September 25th - Getting started with PHP
+- September 25th - Nodejs from beginners to advance [part-one]
 
-- September 26th - Getting started with Fundamentals and basics of Ruby on Rails with DocZ
+- September 26th - Nodejs from beginners to advance [ part-two]
 
-- September 26 - Getting started with Ruby on Rails with DocZ
+- September 27th - Getting started with PHP
 
-- September 27th - Integrating Headless CMS Shopify with React.
+- September 28th - Getting started with Fundamentals and basics of Ruby on Rails with DocZ
 
-- September 28th - Integrating Headless WordPress with React.
+- September 29th - Getting started with Ruby on Rails with DocZ
 
-- September 29th - Getting started with the basics of MongoDB.
+- September 30th - Integrating Headless CMS Shopify with React.
 
-- September 30th - Advanced Concepts of MongoDB
+- October 1st - Integrating Headless WordPress with React.
 
-- October 1st - Learn Tailwind CSS - A beginner’s guide.
+- October 2nd - Getting started with the basics of MongoDB.
 
-- October 2nd - Beginner’s guide to Bootstrap.
+- October 3rd - Advanced Concepts of MongoDB
 
-- October 3rd - How to implement Material-UI in React.
+- October 4th - Learn Tailwind CSS - A beginner’s guide.
 
-- October 4th - Creating Beautiful UI using Ant Design and React.
+- October 5th - Beginner’s guide to Bootstrap.
+
+- October 6th - How to implement Material-UI in React.
+
+- October 7th - Creating Beautiful UI using Ant Design and React.
 
 ## 💼 Events Resources Archives
 
