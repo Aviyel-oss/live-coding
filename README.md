@@ -142,9 +142,9 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 - ~~[September 10th - A beginner’s guide for crafting readme](https://beta.aviyel.com/events/412/a_beginner's_guide_for_crafting_readme_-open-source_series)~~
 
-- September 13th - Getting started with CSS Animations
+- [September 13th - Getting started with CSS Animations](https://beta.aviyel.com/events/419/getting_started_with_css_animations)
 
-- September 14th - Guide to documentation via DocZ
+- [September 14th - Guide to documentation via DocZ](https://beta.aviyel.com/events/438/guide_to_documentation_via_docz_)
 
 - September 15th - Mobile Security Tips/Best practices and getting started with MobSF
 
