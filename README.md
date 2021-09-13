@@ -60,23 +60,19 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 ### 📹 Video Resources
 
-<h4 align="center"><u> Git and Github </u></h4>
+<h4 align="left"><ins> Git and Github </ins></h4>
 
 - [Git and Github crash Course - Freecodecamp](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org)
 - [Git tutorial for beginners- Mosh Hamedani](https://www.youtube.com/watch?v=8JJ101D3knE&ab_channel=ProgrammingwithMosh)
 - [Git branhces tutorial - Freecodecamp](https://www.youtube.com/watch?v=e2IbNHi4uCI&t=507s&ab_channel=freeCodeCamp.org)
 
----
-
-<h4 align="center"><u> Javascript </u></h4>
+<h4 align="left"><ins> Javascript </ins></h4>
 
 - [Learn JavaScript(Full Course for Beginners)- Freecodecamp](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=1s&ab_channel=freeCodeCamp.org)
 - [JavaScript Tutorial for Beginners: Mosh hamedani](https://www.youtube.com/watch?v=W6NZfCO5SIk&ab_channel=ProgrammingwithMosh)
 - [JavaScript Programming - Full Course- freecodecamp](https://www.youtube.com/watch?v=jS4aFq5-91M&ab_channel=freeCodeCamp.org)
 
----
-
-<h4 align="center"><u> Documentation Guide </u></h4>
+<h4 align="left"><ins> Documentation Guide </ins></h4>
 
 - [Writing effective documentation | Beth Aitman ](https://www.youtube.com/watch?v=R6zeikbTgVc&ab_channel=LeadDev)
 - [Intro to API Documentation](https://www.youtube.com/watch?v=5pzhtrrtkXY&ab_channel=I%27dRatherBeWriting)
@@ -84,17 +80,13 @@ Aviyel works with open source creators to build and incentivise active communiti
 - [Software documentation](https://www.youtube.com/watch?v=ApqnZIWPw7s&ab_channel=TutorialsPoint%28India%29Ltd.)
 - [Writing technical documentation](https://www.youtube.com/watch?v=d6Cs11AZqV4&ab_channel=TheDigitalLife)
 
----
-
-<h4 align="center"><u> CSS Animation </u></h4>
+<h4 align="left"><ins> CSS Animation </ins></h4>
 
 - [CSS animation in 15 minutes](https://www.youtube.com/watch?v=YszONjKpgg4&ab_channel=WebDevSimplified)
 - [CSS animation - fireship](https://www.youtube.com/watch?v=HZHHBwzmJLk&ab_channel=Fireship)
 - [Animated Responsive Navbar Tutorial](https://www.youtube.com/watch?v=H4MkGzoACpQ&ab_channel=DevEd)
 
----
-
-<h4 align="center"><u> Miscellaneous </u></h4>
+<h4 align="left"><ins> Miscellaneous </ins></h4>
 
 - [Maintainer Spotlight - Liyas Thomas of Hoppscotch](https://www.youtube.com/watch?v=A5p2CcpyT24&ab_channel=Aviyel)
 - [Maintainer Spotlight - Pranav Raj of Chatwoot](https://www.youtube.com/watch?v=Vu8P3CohqiE&ab_channel=Aviyel)
