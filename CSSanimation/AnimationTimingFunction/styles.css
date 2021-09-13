@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  align-items: center;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(17, 181, 149, 1) 0%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+div {
+  align-items: center;
+  background-color: limegreen;
+  color: white;
+  display: flex;
+  font-weight: 900;
+  font-style: italic;
+  justify-content: center;
+  height: 100px;
+  margin: 20px 0;
+  width: 100px;
+  border-radius: 100%;
+  animation-name: letsMoveThis;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+}
+
+div:nth-of-type(1) {
+  animation-timing-function: ease;
+}
+
+div:nth-of-type(2) {
+  animation-timing-function: ease-in;
+}
+
+div:nth-of-type(3) {
+  animation-timing-function: ease-out;
+}
+
+div:nth-of-type(4) {
+  animation-timing-function: ease-in-out;
+}
+
+div:nth-of-type(5) {
+  animation-timing-function: linear;
+}
+div:nth-of-type(6) {
+  animation-timing-function: cubic-bezier(0.04, 0.93, 0.43, 1.47);
+}
+div:nth-of-type(7) {
+  animation-timing-function: steps(10);
+}
+
+@keyframes letsMoveThis {
+  0%,
+  10% {
+    transform: translateX(-30vw);
+  }
+  90%,
+  100% {
+    transform: translateX(30vw);
+  }
+}
