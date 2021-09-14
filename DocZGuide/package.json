@@ -1,0 +1,16 @@
+{
+  "name": "Docz Documentation",
+  "version": "1.0.0",
+  "description": "This is documentation site built using Docz",
+  "main": "index.js",
+  "scripts": {
+    "docz:dev": "docz dev",
+    "docz:build": "docz build",
+    "docz:serve": "docz build && docz serve"
+  },
+  "author": "aviyel",
+  "license": "ISC",
+  "devDependencies": {
+    "docz": "^2.3.1"
+  }
+}

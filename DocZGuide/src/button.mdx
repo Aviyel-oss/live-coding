@@ -1,0 +1,44 @@
+---
+name: Alert Button
+route: /
+menu: ButtonComponents
+---
+
+import { AlertButton } from ".";
+import { Playground } from "docz";
+
+# Alert
+
+> Docz is awesome
+
+> Small Alert Button
+
+<Playground>
+
+<AlertButton color="success" size="small">
+  Small Alert!
+</AlertButton>
+
+
+# Big Alert Button
+
+> Big alert
+
+<AlertButton size="large"> Big Alert!</AlertButton>
+
+</Playground>
+
+
+<Playground>
+{()=>{
+    const [counter,setCounter] = React.useState(0)
+    return(
+        <>
+        <button onClick={() => setCounter(counter => counter + 1)}>
+        Increment
+        </button>
+        <p>{counter}</p>
+        </>
+    )
+}}
+</Playground>

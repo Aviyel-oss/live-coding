@@ -144,7 +144,7 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 - ~~[September 13th - Getting started with CSS Animations](https://beta.aviyel.com/events/419/getting_started_with_css_animations)~~
 
-- [September 14th - Guide to documentation via DocZ](https://beta.aviyel.com/events/438/guide_to_documentation_via_docz_)
+- ~~[September 14th - Guide to documentation via DocZ](https://beta.aviyel.com/events/438/guide_to_documentation_via_docz_)~~
 
 - September 15th - Mobile Security Tips/Best practices and getting started with MobSF
 
