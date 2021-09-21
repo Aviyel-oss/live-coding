@@ -146,15 +146,23 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 - ~~[September 14th - Guide to documentation via DocZ](https://beta.aviyel.com/events/438/guide_to_documentation_via_docz_)~~
 
-- September 15th - Mobile Security Tips/Best practices and getting started with MobSF
+- ~~[September 15th - Mobile Security Tips/Best practices and getting started with MobSF](https://beta.aviyel.com/events/562/mobile_security_tips/best_practices_and_getting_started_with_mobsf_[part-1])~~
+
+- ~~[September 17th - Mobile Security Tips/Best practices and getting started with MobSF](https://beta.aviyel.com/events/586/mobile_security_tips/best_practices_and_getting_started_with_mobsf_[part-2])~~
+
+- ~~[September 19th - Mobile Security Tips/Best practices and getting started with MobSF](<https://beta.aviyel.com/events/591/getting_started_with_mobsf_[part-3](revision_+_dynamic_analysis))~~
+
+- ~~[September 20th - What is Chatwoot and how to integrate it in react [part -1] ?](https://aviyel.com/events/11/integrating_chatwoot_with_react_-_part_1)~~
+
+- [September 21st - What is Chatwoot and how to integrate it in react [part -2] ?](https://aviyel.com/events/12/integrating_chatwoot_with_react_-_part_2)
+
+- [September 22nd - What is Chatwoot and how to integrate it in react [part -3] ?](https://aviyel.com/events/16/integrating_chatwoot_with_react_-_part_3)
+
+- [September 23rd - Getting started with React with DocZ [Part-One]](https://aviyel.com/events/13/getting_started_with_react_and_docz_-_part_1)
+
+- [September 24th - Getting started with React with DocZ [Part-Two]](https://aviyel.com/events/14/getting_started_with_react_and_docz_-_part_2)
 
 - September 16th - Build an open-source search engine with TypeSense
-
-- September 17th - What is Chatwoot and how to integrate it in react?
-
-- September 18th - Getting started with React with DocZ [Part-One]
-
-- September 19th - Getting started with React with DocZ [Part-Two]
 
 - September 20th - Create a Fullstack Project using TypeSense, Chatwoot, and React
 
