@@ -162,43 +162,43 @@ Aviyel works with open source creators to build and incentivise active communiti
 
 - [September 24th - Getting started with React with DocZ [Part-Two]](https://aviyel.com/events/14/getting_started_with_react_and_docz_-_part_2)
 
-- September 16th - Build an open-source search engine with TypeSense
+- September 25th - Build an open-source search engine with TypeSense
 
-- September 20th - Create a Fullstack Project using TypeSense, Chatwoot, and React
+- September 26th - Create a Fullstack Project using TypeSense, Chatwoot, and React
 
-- September 21st - Create a Fullstack Project using TypeSense, Chatwoot, and React
+- September 27th - Create a Fullstack Project using TypeSense, Chatwoot, and React
 
-- September 22nd - Create a Fullstack Project using TypeSense, Chatwoot, and React
+- September 28th - Create a Fullstack Project using TypeSense, Chatwoot, and React
 
-- September 23rd - Getting started with Slack bot Api
+- September 29th - Getting started with Slack bot Api
 
-- September 24th - Getting started with Slack bot Api
+- September 30th - Getting started with Slack bot Api
 
-- September 25th - Nodejs from beginners to advance [part-one]
+- October 1st - Nodejs from beginners to advance [part-one]
 
-- September 26th - Nodejs from beginners to advance [ part-two]
+- October 2nd - Nodejs from beginners to advance [ part-two]
 
-- September 27th - Getting started with PHP
+- October 3rd - Getting started with PHP
 
-- September 28th - Getting started with Fundamentals and basics of Ruby on Rails with DocZ
+- October 4th - Getting started with Fundamentals and basics of Ruby on Rails with DocZ
 
-- September 29th - Getting started with Ruby on Rails with DocZ
+- October 5th - Getting started with Ruby on Rails with DocZ
 
-- September 30th - Integrating Headless CMS Shopify with React.
+- October 6th - Integrating Headless CMS Shopify with React.
 
-- October 1st - Integrating Headless WordPress with React.
+- October 7th - Integrating Headless WordPress with React.
 
-- October 2nd - Getting started with the basics of MongoDB.
+- October 9th - Getting started with the basics of MongoDB.
 
-- October 3rd - Advanced Concepts of MongoDB
+- October 10th - Advanced Concepts of MongoDB
 
-- October 4th - Learn Tailwind CSS - A beginner’s guide.
+- October 11th - Learn Tailwind CSS - A beginner’s guide.
 
-- October 5th - Beginner’s guide to Bootstrap.
+- October 12th - Beginner’s guide to Bootstrap.
 
-- October 6th - How to implement Material-UI in React.
+- October 13th - How to implement Material-UI in React.
 
-- October 7th - Creating Beautiful UI using Ant Design and React.
+- October 14th - Creating Beautiful UI using Ant Design and React.
 
 ## 💼 Events Resources Archives
 
