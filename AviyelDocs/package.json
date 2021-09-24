@@ -1,0 +1,17 @@
+{
+  "name": "Aviyel LiveCoding Docs",
+  "version": "1.0.0",
+  "description": "Aviyel Livecoding Documentation",
+  "main": "index.js",
+  "scripts": {
+    "docz:dev": "docz dev",
+    "docz:build": "docz build",
+    "docz:serve": "docz build && docz serve"
+  },
+  "keywords": [],
+  "author": "aviyel",
+  "license": "ISC",
+  "dependencies": {
+    "docz": "^2.3.1"
+  }
+}
