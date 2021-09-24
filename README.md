@@ -20,7 +20,7 @@ Aviyel works with open source creators to build and incentivise active communiti
 - [Aviyel Events](#%EF%B8%8F-aviyel-events)
 - [Events Resources](#-events-resources-archives)
 
-## 🎫 Event Website ([https://beta.aviyel.com/events](https://beta.aviyel.com/events)) 🎙️
+## 🎫 Event Website ([https://aviyel.com/events](https://aviyel.com/events)) 🎙️
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/37651620/132625766-03de6a09-4cf0-41a6-af3d-25a8e106bb29.jpg" width ="700"/>
