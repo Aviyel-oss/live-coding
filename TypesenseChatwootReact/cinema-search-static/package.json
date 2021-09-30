@@ -1,0 +1,19 @@
+{
+  "name": "typesense-search-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --port 5000",
+    "build": "parcel build index.html",
+    "populate": "node populateIndex.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "typesense": "^0.15.0",
+    "typesense-instantsearch-adapter": "^2.1.0"
+  }
+}

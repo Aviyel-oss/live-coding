@@ -1,0 +1,30 @@
+.Instantsearch {
+  max-width: 1050px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.left-pannel {
+  float: left;
+  width: 200px;
+}
+
+.right-pannel {
+  margin-left: 200px;
+}
+
+.gobackcinema {
+  background-color: var(--primary-color);
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 5px;
+  margin: 2px 0;
+  padding: 10px 20px;
+  border: 0;
+}
+
+.gobackcinema:hover {
+  transform: scale(1.1);
+}

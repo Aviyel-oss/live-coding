@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./src/instant.css" />
+    <link rel="stylesheet" href="./src/index.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;1,100;1,300&display=swap"
+      rel="stylesheet"
+    />
+
+    <title>Cinema Search</title>
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <img
+          src="./src/images/logo.png"
+          class="logo-image"
+          alt="cinema search"
+        />
+        Cinema Search
+      </div>
+      <div class="toggle"></div>
+      <div class="navigation">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="search.html">Search Movies</a></li>
+        </ul>
+      </div>
+    </header>
+
+    <section class="home">
+      <img
+        src="https://images.unsplash.com/photo-1536440136628-849c177e76a1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2luZW1hfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+        class="home-image"
+        alt="book shelf image"
+      />
+      <div class="home-content">
+        <h1>Search movies from old to new</h1>
+        <p>
+          Search movies on the go. you can search anything you like. search
+          result will be displayed as you type it.Now, you dont have to hit
+          enter anymore.Typsense is the best!!!.
+        </p>
+        <a href="search.html" class="searchcinema">Search Cinema </a>
+      </div>
+    </section>
+
+    <script>
+      const toggle = document.querySelector(".toggle");
+      const navigation = document.querySelector(".navigation");
+      toggle.addEventListener("click", () => {
+        toggle.classList.toggle("active");
+        navigation.classList.toggle("active");
+      });
+    </script>
+
+    <script>
+      (function (d, t) {
+        var BASE_URL = "https://chatwoot-aviyel-demo-live.herokuapp.com";
+        var g = d.createElement(t),
+          s = d.getElementsByTagName(t)[0];
+        g.src = BASE_URL + "/packs/js/sdk.js";
+        g.defer = true;
+        g.async = true;
+        s.parentNode.insertBefore(g, s);
+        g.onload = function () {
+          window.chatwootSDK.run({
+            websiteToken: "tryj7Y55oHihKMKJWdRbGfho",
+            baseUrl: BASE_URL,
+          });
+        };
+      })(document, "script");
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.5.0"></script>
+    <script src="./src/algoliaMin.js"></script>
+    <script src="./src/app.js"></script>
+  </body>
+</html>

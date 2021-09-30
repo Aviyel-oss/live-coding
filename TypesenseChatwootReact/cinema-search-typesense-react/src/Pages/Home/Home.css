@@ -1,0 +1,67 @@
+
+section {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    padding: 100px;
+    margin-top: 70px;
+  }
+  
+  section.home {
+    flex-direction: row;
+    margin-top: 0;
+  }
+  
+  h1 {
+    font-size: 30px;
+    font-weight: 600;
+  }
+  
+  p {
+    margin: 30px 0px 30px 0px;
+    font-size: 1rem;
+  }
+  
+  .searchcinema {
+    background-color: var(--primary-color);
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    margin: 20px 0;
+    padding: 10px 20px;
+    border: 0;
+  }
+  
+  .searchcinema:hover {
+    transform: scale(1.1);
+  }
+  
+  .logo {
+    position: absolute;
+    top: 30px;
+    left: 100px;
+    padding-left: 90px;
+    font-size: 3rem;
+    font-weight: 600;
+    z-index: 20;
+  }
+
+  
+.logo-image {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 100%;
+  }
+  
+  header h1 {
+    color: rgb(177, 52, 235);
+    text-shadow: 20px 20px 20px rgb(0, 0, 0);
+    font-size: 90px;
+    font-weight: 500;
+    text-align: center;
+  }
+

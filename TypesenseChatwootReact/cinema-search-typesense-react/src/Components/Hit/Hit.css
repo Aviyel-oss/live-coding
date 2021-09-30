@@ -1,0 +1,33 @@
+.hit-title-name{
+margin-bottom:2rem;
+color: rgb(179, 96, 190);
+font-size: 20px;
+font-weight: 600;
+text-align: center;
+transition: 0.4s ease-in-out;
+border-radius: 3px;
+text-align: center;
+background: rgb(82, 81, 81);
+}
+
+.poster-size{
+ width:150px;
+ height:auto;
+}
+
+.hit-genre{
+    margin-bottom:2rem;
+    color: rgb(179, 96, 190);
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    transition: 0.4s ease-in-out;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.hit-overview{
+color:grey;
+font-size:10px;
+margin-bottom:1rem;
+}
