@@ -19,7 +19,8 @@ app.use((req, res, next) => {
   next();
 });
 
-app.use("/", require("./routes/testing.routes.js"));
+app.use("/testing", require("./routes/testing.routes.js"));
+app.use("/students", require("./routes/students.routes.js"));
 
 app.listen(PORT, () => {
   console.log(`App is currently running on http://localhost:${PORT}`);
